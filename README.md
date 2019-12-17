@@ -1,5 +1,5 @@
 # reddit-data-mining
 
-The goal for this project is play with a script Python ans use it to mine content ideas from Reddit.
+The goal for this project is to play with a script Python and use it to mine content ideas from Reddit.
 
-#technicalSEO, #free SEO Tools, #Paul Shapiro's
+Learning Outcomes: technicalSEO
